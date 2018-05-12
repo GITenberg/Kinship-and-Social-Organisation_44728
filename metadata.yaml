@@ -1,0 +1,32 @@
+_repo: Kinship-and-Social-Organisation_44728
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44728-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rivers, W. H. R. (William Halse Rivers)
+    alias: Rivers, William Halse Rivers
+    birthdate: 1864
+    deathdate: 1922
+    gutenberg_agent_id: '42888'
+    url: http://www.gutenberg.org/2009/agents/42888
+    wikipedia: http://en.wikipedia.org/wiki/W._H._R._Rivers
+description: ''
+gutenberg_issued: '2014-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44728'
+  lccn: '14012081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Consanguinity'
+- !lcsh 'Primitive societies'
+- !lcsh 'Marriage'
+- !lcsh 'Ethnology -- Melanesia'
+- !lcc 'GN'
+title: Kinship and Social Organisation
+url: http://www.gutenberg.org/ebooks/44728
